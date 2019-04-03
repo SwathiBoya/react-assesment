@@ -12,7 +12,7 @@ export default class Header extends Component{
                 {
                 "itemId":426185816,
                 "parentItemId":426185816,
-                "name":"Best Choice Products 6V Kids Ride-On Car Truck w/ Parent Control, 3 Speeds, LED Headlights, MP3 Player, Horn - Pink",
+                "name":"Best Choice Products 6V Kids ,Horn - Pink",
                 "msrp":186.99,
                 "salePrice":119.99,
                 "upc":"842957111008",
